@@ -1,1 +1,1 @@
-module.exports.SEED = "Seed-Very_Hard_To-Find";
+module.exports.SEED = "SeeD-VerY_HarD_TO-Find";
